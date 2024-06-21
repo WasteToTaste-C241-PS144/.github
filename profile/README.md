@@ -20,13 +20,13 @@ C241-PS144
 
 |            Member           |  Student ID  |        Path        |                                                         Contacts                                                      
 | :-------------------------: | :--------:   | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|     Pijar Pahlawan Qolbu    | M183D4KY2404 |  Machine Learning  |  [LinkedIn]() or [Github](https://github.com/pijarpahlawan)                                                         |
-|      Tifani Dea Shafira     | M183D4KX2146 |  Machine Learning  |  [LinkedIn]() or [Github]()                                                                                         |
-|     Amalina Nur Sabrina     | M183D4KX1944 |  Machine Learning  |  [LinkedIn]() or [Github]()                                                                                         |
-|      Rival Vurnama          | C550D4NY1368 |   Cloud Computing  |  [LinkedIn]() or [Github]()                                                                                         |  
-|      Chalisun Firifqah      | C548D4NX1340 |   Cloud Computing  |  [LinkedIn]() or [Github](https://github.com/Chafirqh)                                                              |
-|      Julia Nur Fajrina      | A006D4KX4578 | Mobile Development |  [LinkedIn]() or [Github]()                                                                                         |
-|     Sherla Puspa Andina     | A006D4KX3821 | Mobile Development |  [LinkedIn]() or [Github](https://github.com/sherlapuspa)                                                                                         |
+|     Pijar Pahlawan Qolbu    | M183D4KY2404 |  Machine Learning  |  [LinkedIn](https://www.linkedin.com/in/pijar-pahlawan/) or [Github](https://github.com/pijarpahlawan)                                                         |
+|      Tifani Dea Shafira     | M183D4KX2146 |  Machine Learning  |  [LinkedIn](https://www.linkedin.com/in/tifani-dea-shafira/) or [Github](https://github.com/TifaniDea)                                                                                         |
+|     Amalina Nur Sabrina     | M183D4KX1944 |  Machine Learning  |  [LinkedIn](https://www.linkedin.com/in/amalina-nur-sabrina-738849299/) or [Github](https://github.com/amalina30)                                                                                         |
+|      Rival Vurnama          | C550D4NY1368 |   Cloud Computing  |  [LinkedIn](https://www.linkedin.com/in/rival-vurnama/) or [Github](https://github.com/rivalV/rivalV)                                                                                         |  
+|      Chalisun Firifqah      | C548D4NX1340 |   Cloud Computing  |  [LinkedIn](https://www.linkedin.com/in/chalisun-firifqah-692599262/) or [Github](https://github.com/Chafirqh)                                                              |
+|      Julia Nur Fajrina      | A006D4KX4578 | Mobile Development |  [LinkedIn](https://www.linkedin.com/in/julia-nur-fajrina-76469b270/) or [Github](https://github.com/juliarinaa)                                                                                         |
+|     Sherla Puspa Andina     | A006D4KX3821 | Mobile Development |  [LinkedIn](https://www.linkedin.com/in/sherla-puspa-238216301/) or [Github](https://github.com/sherlapuspa)                                                                                         |
 
 ## Repositories
 

@@ -20,11 +20,11 @@ C241-PS144
 
 |            Member           |  Student ID  |        Path        |                                                         Contacts                                                      
 | :-------------------------: | :--------:   | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|     Pijar Pahlawan Qolbu    | M183D4KY2404 |  Machine Learning  |  [LinkedIn]() or [Github]()                                                                                         |
+|     Pijar Pahlawan Qolbu    | M183D4KY2404 |  Machine Learning  |  [LinkedIn]() or [Github](https://github.com/pijarpahlawan)                                                         |
 |      Tifani Dea Shafira     | M183D4KX2146 |  Machine Learning  |  [LinkedIn]() or [Github]()                                                                                         |
 |     Amalina Nur Sabrina     | M183D4KX1944 |  Machine Learning  |  [LinkedIn]() or [Github]()                                                                                         |
 |      Rival Vurnama          | C550D4NY1368 |   Cloud Computing  |  [LinkedIn]() or [Github]()                                                                                         |  
-|      Chalisun Firifqah      | C548D4NX1340 |   Cloud Computing  |  [LinkedIn]() or [Github]()                                                                                         |
+|      Chalisun Firifqah      | C548D4NX1340 |   Cloud Computing  |  [LinkedIn]() or [Github](https://github.com/Chafirqh)                                                              |
 |      Julia Nur Fajrina      | A006D4KX4578 | Mobile Development |  [LinkedIn]() or [Github]()                                                                                         |
 |     Sherla Puspa Andina     | A006D4KX3821 | Mobile Development |  [LinkedIn]() or [Github]()                                                                                         |
 
@@ -32,9 +32,9 @@ C241-PS144
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github]()                                                         |
-|  Machine Learning  | [Github]()                                                         |
-|   Cloud Computing  | [Github]()                                                         |
+| Mobile Development | [Github](https://github.com/WasteToTaste-C241-PS144/WasteToTaste)                                                         |
+|  Machine Learning  | [Github](https://github.com/WasteToTaste-C241-PS144/wtt-api)                                                         |
+|   Cloud Computing  | [Github](https://github.com/WasteToTaste-C241-PS144/CC_Auth)                                                         |
 
 
 
